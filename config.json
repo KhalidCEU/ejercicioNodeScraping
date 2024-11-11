@@ -1,0 +1,8 @@
+{
+    "scraping": {
+        "interval": 60,
+        "location": "Madrid",
+        "checkIn": "2025-01-01",
+        "checkOut": "2025-01-51"
+    }
+}
